@@ -50,7 +50,16 @@ Then click on the permissions tab and give them all access, tasks and knowledgeb
 The two agents has been added "Sam and Susie".<br>
 <img src="imagesp/Screenshot%202024-12-25%20043515.png">
 
+- Click on the "agent panel" at the top right of the page and then click on "users". This account will be used for when you want to test the functionality of the system once everything is built out. "Amber Full" was the name of the account that I have created. You can see that she has "guest" in the status box.
+<img src="imagesp/Screenshot%202024-12-25%20043536.png">
 
+- Configuring the Service Level Agreements is the next step that needs to be done. Make sure that you are in the "admin panel" and click on "manage > SLA". When you click on SLA the service window will pop up and you can create new SLA's from there. Click on the "create new SLA plan button" to get started creating one. HEre you can set the grace period, status and the schedule of the SLA.
+<img src="imagesp/Screenshot%202024-12-25%20043555.png">
+<img src="imagesp/Screenshot%202024-12-25%20043612.png">
+Three of them were created:
+<img src="imagesp/Screenshot%202024-12-25%20043638.png">
+
+- Now you have what you need to send and respond to tickets in osTicket.
 
 
 
