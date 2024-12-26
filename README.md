@@ -45,7 +45,10 @@ Then click on the permissions tab and give them all access, tasks and knowledgeb
 - Now you will create the teams that will belong to the "department" you just created. Click on the "add new team button". When you are done click the "create team button".
 <img src="imagesp/Screenshot%202024-12-25%20043405.png">
 
-
+- Here you will be adding a new agent, as if you hired them to your brand new company. In the "admin panel" go to "agents > add new agents" and click the button. In the picture below I am the only agent but I will add two more agents to the fictional company.
+<img src="imagesp/Screenshot%202024-12-25%20043452.png"><br>
+The two agents has been added "Sam and Susie".<br>
+<img src="imagesp/Screenshot%202024-12-25%20043515.png">
 
 
 
