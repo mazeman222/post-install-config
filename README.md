@@ -42,7 +42,7 @@ Then click on the permissions tab and give them all access, tasks and knowledgeb
 - For ticket visibility you will want to ensure that the right departments will see the ticket when the end users submits it in the portal. While still in the "admin panel" go to the "agents tab". In the "agents tab" click on the "departments tab". Then click on the " add new department" button. When the window pops up, then you can fill out the information to create the department that will respond to the ticket.
 <img src="imagesp/Screenshot%202024-12-25%20043315.png">
 
-- Now you will create the teams that will belong to the "department" you just created. Click on the "add new team button". When you are done click the "create teams button".
+- Now you will create the teams that will belong to the "department" you just created. Click on the "add new team button". When you are done click the "create team button".
 <img src="imagesp/Screenshot%202024-12-25%20043405.png">
 
 
